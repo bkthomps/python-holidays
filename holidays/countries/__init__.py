@@ -35,6 +35,7 @@ from .czechia import Czechia, CZ, CZE
 from .denmark import Denmark, DK, DNK
 from .djibouti import Djibouti, DJ, DJI
 from .dominican_republic import DominicanRepublic, DO, DOM
+from .ecuador import Ecuador, EC, ECU
 from .egypt import Egypt, EG, EGY
 from .estonia import Estonia, EE, EST
 from .ethiopia import Ethiopia, ET, ETH
